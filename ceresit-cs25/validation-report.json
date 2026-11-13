@@ -1,209 +1,235 @@
 {
-  "checked_at": "2026-11-13T16:24:18.797448+00:00",
-  "source_archive": "ceresit_cs25_final_8_images.zip",
-  "schema_url": "https://cdn2.ozone.ru/s3/artifact/schema.json",
-  "json_url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/ozon-rich-content.json",
-  "json_http_status": 200,
+  "checked_at": "2026-11-13T17:00:55.997855+00:00",
+  "source_archive": "ceresit_cs25_production.zip",
   "json_syntax_valid": true,
   "ozon_0_3_schema_valid": true,
-  "image_count": 8,
-  "old_filenames_and_urls_preserved": true,
-  "additional_banner_captions_in_json": false,
-  "preview_browser_checks": [
-    {
-      "scrollWidth": 390,
-      "viewport": 390,
-      "images": [
-        {
-          "natural": [
-            800,
-            800
-          ],
-          "rendered": [
-            390,
-            390
-          ]
-        },
-        {
-          "natural": [
-            800,
-            800
-          ],
-          "rendered": [
-            390,
-            390
-          ]
-        },
-        {
-          "natural": [
-            800,
-            800
-          ],
-          "rendered": [
-            390,
-            390
-          ]
-        },
-        {
-          "natural": [
-            800,
-            800
-          ],
-          "rendered": [
-            390,
-            390
-          ]
-        }
-      ]
-    },
-    {
-      "scrollWidth": 1416,
-      "viewport": 1416,
-      "images": [
-        {
-          "natural": [
-            1416,
-            708
-          ],
-          "rendered": [
-            1416,
-            708
-          ]
-        },
-        {
-          "natural": [
-            1416,
-            708
-          ],
-          "rendered": [
-            1416,
-            708
-          ]
-        },
-        {
-          "natural": [
-            1416,
-            708
-          ],
-          "rendered": [
-            1416,
-            708
-          ]
-        },
-        {
-          "natural": [
-            1416,
-            708
-          ],
-          "rendered": [
-            1416,
-            708
-          ]
-        }
-      ]
-    }
-  ],
-  "source_image_notes": [
-    "The blue title/subtitle strips are already baked into the source JPGs.",
-    "The upper logo is clipped in the supplied mobile images 03 and 04; JSON cannot restore missing pixels.",
-    "Main section titles are readable. Small white internal strips in some supplied images are preserved."
-  ],
+  "json_matches_zip_original": true,
+  "schema_url": "https://cdn2.ozone.ru/s3/artifact/schema.json",
+  "json_http_status": 200,
   "public_url_checks": [
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_desktop.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 387153,
       "dimensions": [
         1416,
         708
       ],
-      "sha256": "519955e686f338a2d10e3de8ee776f40a3fac822aeafc3ebdfe45e7921e70057",
+      "sha256": "7ee749e557c13087c4c5d6ab265d41b9133f1d83b5c7d96fcb8a3abc3a621126",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_mobile.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 287873,
       "dimensions": [
         800,
         800
       ],
-      "sha256": "b37ca7bbd4baa5a4265f219491ce997188483403176b522d00e7b78a4cf1c319",
+      "sha256": "f3c74f5843f7dad222ff7202c52dda238fba1c2a2e2f565a93b7c2e3b0f6c84f",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_desktop.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 354925,
       "dimensions": [
         1416,
         708
       ],
-      "sha256": "8396c3c1220c83de322ecdb3a446137d5949e6ce375d47739b9dea5c19960cdb",
+      "sha256": "ba43061103f0ce2339c5bdade44419c1f694fb52cf6ae34e1fe45c470d9d3482",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_mobile.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 267367,
       "dimensions": [
         800,
         800
       ],
-      "sha256": "8880e257ec3a7130f35d1532cb336f21863133a1cc08c76fd200691c0349566c",
+      "sha256": "abc1ce51d34b108d6ad675152c885cd78648341460d95e35779186b7b954645d",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_desktop.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 298324,
       "dimensions": [
         1416,
         708
       ],
-      "sha256": "b272ba54562a86da4e3158ae6741236acdf2bae8e57521ae638f1ff94280d436",
+      "sha256": "bb98935560b47ddbbc64d3f17610b0397fe1040386ff8f51834d07a778ac988c",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_mobile.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 276076,
       "dimensions": [
         800,
         800
       ],
-      "sha256": "edef44156f6524c3e153ffd763032231b33eceb25a22044b7aa4dbe5030f4381",
+      "sha256": "70c226db372f7dfea292f9cfef7f04d47ad4cb4c4486ad1445b01cc7df95f22f",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_desktop.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 329553,
       "dimensions": [
         1416,
         708
       ],
-      "sha256": "c8137e7cf513bc5beb224e8fa87d24311b4376391658e87701906651e7eac682",
+      "sha256": "5f69d77cde569c537c7f381694219f07b579aaef2e79c1f1175023cb9b5202dd",
       "matches_zip_original": true
     },
     {
       "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_mobile.jpg",
       "status": 200,
       "content_type": "image/jpeg",
-      "bytes": 261407,
       "dimensions": [
         800,
         800
       ],
-      "sha256": "934a81fa14f8d9e345df5391cf6ba29c719647b4618804aba71c5f402dc68879",
+      "sha256": "f6ad312c3abdb7eb2c13881d060aaff515c07aa077c2f4496dfee73186e06818",
       "matches_zip_original": true
     }
-  ]
+  ],
+  "ozon_preview": {
+    "renderer": "Official Ozon sandbox",
+    "sandbox_url": "https://rich-content.ozon.ru/sandbox",
+    "method": "Original production JSON, mobile/desktop modes; fixed sandbox shell removed to set exact viewport width. Official widget DOM and CSS unchanged. Public JPG requests revalidated with cache-busting query and checked byte-for-byte against ZIP.",
+    "checks": [
+      {
+        "viewport": 390,
+        "scrollWidth": 390,
+        "bodyText": "Дополнительные сведения\nПлёнка образуется примерно за 15 минут; отверждение около 2 мм/сутки при +23 °C и относительной влажности 50%. Термостойкость после отверждения: −40…+120 °C. Хранение: 0…+30 °C. Транспортировка: −20…+50 °C.",
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_mobile.jpg",
+            "natural": [
+              800,
+              800
+            ],
+            "rendered": [
+              390,
+              390
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_mobile.jpg",
+            "natural": [
+              800,
+              800
+            ],
+            "rendered": [
+              390,
+              390
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_mobile.jpg",
+            "natural": [
+              800,
+              800
+            ],
+            "rendered": [
+              390,
+              390
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_mobile.jpg",
+            "natural": [
+              800,
+              800
+            ],
+            "rendered": [
+              390,
+              390
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          }
+        ],
+        "screenshot": "/workspace/ozon-production-390.png"
+      },
+      {
+        "viewport": 1920,
+        "scrollWidth": 1920,
+        "bodyText": "Дополнительные сведения\nПлёнка образуется примерно за 15 минут; отверждение около 2 мм/сутки при +23 °C и относительной влажности 50%. Термостойкость после отверждения: −40…+120 °C. Хранение: 0…+30 °C. Транспортировка: −20…+50 °C.",
+        "images": [
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_desktop.jpg",
+            "natural": [
+              1416,
+              708
+            ],
+            "rendered": [
+              1920,
+              960
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_desktop.jpg",
+            "natural": [
+              1416,
+              708
+            ],
+            "rendered": [
+              1920,
+              960
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_desktop.jpg",
+            "natural": [
+              1416,
+              708
+            ],
+            "rendered": [
+              1920,
+              960
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          },
+          {
+            "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_desktop.jpg",
+            "natural": [
+              1416,
+              708
+            ],
+            "rendered": [
+              1920,
+              960
+            ],
+            "x": 0,
+            "complete": true,
+            "objectFit": "fill"
+          }
+        ],
+        "screenshot": "/workspace/ozon-production-1920.png"
+      }
+    ]
+  },
+  "visual_review": "All four banners fully visible in the official renderer at 390 and 1920 px; no horizontal overflow, side gaps, or aspect ratio distortion. The blue captions are baked into the original production JPGs."
 }
