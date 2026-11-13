@@ -1,0 +1,109 @@
+{
+  "checked_at": "2026-11-13T15:51:59.126581+00:00",
+  "schema_url": "https://cdn2.ozone.ru/s3/artifact/schema.json",
+  "json_url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/ozon-rich-content.json",
+  "json_http_status": 200,
+  "json_syntax_valid": true,
+  "ozon_0_3_schema_valid": true,
+  "only_json_changes": "8 placeholder URL replacements",
+  "upload_succeeded": true,
+  "preview_http_status": 200,
+  "public_url_checks": [
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_desktop.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 312713,
+      "dimensions": [
+        1416,
+        708
+      ],
+      "sha256": "bf1ab203093fe59ab21af6d233e69834b74518d3bfa2bdb5637676d988073d97",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_mobile.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 195751,
+      "dimensions": [
+        800,
+        800
+      ],
+      "sha256": "7a80becc319c53605b2b2f5bbc264329d8a3cab27349faf64c1ac0c43d60d8d9",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_desktop.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 190677,
+      "dimensions": [
+        1416,
+        708
+      ],
+      "sha256": "9c676100093ddd640e76e1f38263717e45dcf50e5c13513bab0bae953dffb955",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_mobile.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 207634,
+      "dimensions": [
+        800,
+        800
+      ],
+      "sha256": "420c5d76a9f4b41b3306da5a8d8e5d52f34bd86c21b41dc5b8afd74c2fb030e7",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_desktop.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 190070,
+      "dimensions": [
+        1416,
+        708
+      ],
+      "sha256": "d3cfb56e811400d3371a0c1f9a6824d474a1c47671ed9adbd7f7118f07c85faa",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_mobile.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 205480,
+      "dimensions": [
+        800,
+        800
+      ],
+      "sha256": "4623c52f18f5c9216c433f8b78fea9c04268dbe630c8f9b8cf6786291788679c",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_desktop.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 193222,
+      "dimensions": [
+        1416,
+        708
+      ],
+      "sha256": "3e9f3ac0a2d90019eb78ecda158f1537646dcd0bab7d8d96f1de42825706e18b",
+      "matches_original": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_mobile.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 210061,
+      "dimensions": [
+        800,
+        800
+      ],
+      "sha256": "9a90651a2441a9b281ec6caed9af993859eaa08874a9f9970b8e301c3acb2968",
+      "matches_original": true
+    }
+  ]
+}
