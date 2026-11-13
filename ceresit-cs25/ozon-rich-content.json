@@ -9,7 +9,7 @@
           "img": {
             "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_desktop.jpg",
             "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_mobile.jpg",
-            "alt": "Силиконовая затирка Церезит CS 25",
+            "alt": "Защита швов от влаги",
             "width": 1416,
             "height": 708,
             "widthMobile": 800,
@@ -29,7 +29,7 @@
           "img": {
             "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_desktop.jpg",
             "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_mobile.jpg",
-            "alt": "Описание и назначение",
+            "alt": "Преимущества CS 25",
             "width": 1416,
             "height": 708,
             "widthMobile": 800,
@@ -49,7 +49,7 @@
           "img": {
             "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_desktop.jpg",
             "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_mobile.jpg",
-            "alt": "Подготовка и нанесение",
+            "alt": "Как правильно наносить",
             "width": 1416,
             "height": 708,
             "widthMobile": 800,
@@ -69,7 +69,7 @@
           "img": {
             "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_desktop.jpg",
             "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_mobile.jpg",
-            "alt": "Условия работы и расход",
+            "alt": "Характеристики и расход",
             "width": 1416,
             "height": 708,
             "widthMobile": 800,
@@ -87,7 +87,7 @@
       "gapSize": "m",
       "title": {
         "content": [
-          "Условия измерений"
+          "Дополнительные сведения"
         ],
         "size": "size5",
         "align": "left",
@@ -95,51 +95,7 @@
       },
       "text": {
         "content": [
-          "Показатели времени плёнкообразования и отверждения приведены для +23 °C и влажности воздуха 50%."
-        ],
-        "size": "size2",
-        "align": "left",
-        "color": "color1"
-      }
-    },
-    {
-      "widgetName": "raTextBlock",
-      "theme": "primary",
-      "padding": "type2",
-      "gapSize": "m",
-      "title": {
-        "content": [
-          "Дополнительные характеристики"
-        ],
-        "size": "size5",
-        "align": "left",
-        "color": "color1"
-      },
-      "text": {
-        "content": [
-          "Термостойкость после отверждения: −40…+120 °C. Хранение: 0…+30 °C. Транспортировка: −20…+50 °C. Плотность: около 0,97 г/см³."
-        ],
-        "size": "size2",
-        "align": "left",
-        "color": "color1"
-      }
-    },
-    {
-      "widgetName": "raTextBlock",
-      "theme": "primary",
-      "padding": "type2",
-      "gapSize": "m",
-      "title": {
-        "content": [
-          "Важно при нанесении"
-        ],
-        "size": "size5",
-        "align": "left",
-        "color": "color1"
-      },
-      "text": {
-        "content": [
-          "Толщина слоя — примерно половина ширины шва. Свежие остатки удаляются спиртом или ацетоном, затвердевшие — только механически. Силикон должен контактировать только с боковыми кромками деформационного шва."
+          "Плёнка образуется примерно за 15 минут; отверждение около 2 мм/сутки при +23 °C и относительной влажности 50%. Термостойкость после отверждения: −40…+120 °C. Хранение: 0…+30 °C. Транспортировка: −20…+50 °C."
         ],
         "size": "size2",
         "align": "left",
