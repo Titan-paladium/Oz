@@ -1,0 +1,215 @@
+{
+  "content": [
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_desktop.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/01_hero_mobile.jpg",
+            "alt": "Силиконовая затирка Церезит CS 25",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 800,
+            "heightMobile": 800,
+            "position": "width_full",
+            "positionMobile": "width_full"
+          },
+          "title": {
+            "content": [
+              "Силиконовая затирка Церезит CS 25"
+            ],
+            "size": "size4",
+            "align": "left",
+            "color": "color1"
+          },
+          "text": {
+            "content": [
+              "Эластичная и водостойкая. Формула «ТриоПротект» — усиленная защита от грибка и плесени."
+            ],
+            "size": "size2",
+            "align": "left",
+            "color": "color1"
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_desktop.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/02_benefits_mobile.jpg",
+            "alt": "Описание и назначение",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 800,
+            "heightMobile": 800,
+            "position": "width_full",
+            "positionMobile": "width_full"
+          },
+          "title": {
+            "content": [
+              "Описание и назначение"
+            ],
+            "size": "size4",
+            "align": "left",
+            "color": "color1"
+          },
+          "text": {
+            "content": [
+              "Однокомпонентная силиконовая затирка кислотного отверждения. Для внутренних и наружных работ; устойчива к УФ-лучам, озону и атмосферным воздействиям."
+            ],
+            "size": "size2",
+            "align": "left",
+            "color": "color1"
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_desktop.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/03_application_mobile.jpg",
+            "alt": "Подготовка и нанесение",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 800,
+            "heightMobile": 800,
+            "position": "width_full",
+            "positionMobile": "width_full"
+          },
+          "title": {
+            "content": [
+              "Подготовка и нанесение"
+            ],
+            "size": "size4",
+            "align": "left",
+            "color": "color1"
+          },
+          "text": {
+            "content": [
+              "Очистите и обезжирьте сухие кромки шва, удалите старый герметик. Используйте малярную ленту и уплотнительный жгут в деформационных швах. Нанесите пистолетом; не позднее 15 минут смочите мыльной водой и загладьте влажным шпателем."
+            ],
+            "size": "size2",
+            "align": "left",
+            "color": "color1"
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raShowcase",
+      "type": "billboard",
+      "blocks": [
+        {
+          "imgLink": "",
+          "img": {
+            "src": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_desktop.jpg",
+            "srcMobile": "https://raw.githubusercontent.com/Titan-paladium/Oz/main/ceresit-cs25/images/04_specs_mobile.jpg",
+            "alt": "Условия работы и расход",
+            "width": 1416,
+            "height": 708,
+            "widthMobile": 800,
+            "heightMobile": 800,
+            "position": "width_full",
+            "positionMobile": "width_full"
+          },
+          "title": {
+            "content": [
+              "Условия работы и расход"
+            ],
+            "size": "size4",
+            "align": "left",
+            "color": "color1"
+          },
+          "text": {
+            "content": [
+              "Температура применения: +5…+40 °C. Плёнка образуется примерно за 15 минут. Скорость отверждения около 2 мм/сутки при шве 20×10 мм. Ширина шва: 5–30 мм."
+            ],
+            "size": "size2",
+            "align": "left",
+            "color": "color1"
+          }
+        }
+      ]
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "primary",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "content": [
+          "Расход на погонный метр"
+        ],
+        "size": "size5",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "content": [
+          "Шов 5×5 мм — около 25 мл; 10×5 мм — около 50 мл; 10×10 мм — около 100 мл; 15×10 мм — около 150 мл. Показатели времени плёнкообразования и отверждения приведены для +23 °C и влажности воздуха 50%."
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "primary",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "content": [
+          "Дополнительные характеристики"
+        ],
+        "size": "size5",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "content": [
+          "Термостойкость после отверждения: −40…+120 °C. Хранение: 0…+30 °C. Транспортировка: −20…+50 °C. Плотность: около 0,97 г/см³. Выпускается в 22 цветах, включая прозрачный, в гамме затирок Церезит CE 33 и CE 40."
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    },
+    {
+      "widgetName": "raTextBlock",
+      "theme": "primary",
+      "padding": "type2",
+      "gapSize": "m",
+      "title": {
+        "content": [
+          "Важно при нанесении"
+        ],
+        "size": "size5",
+        "align": "left",
+        "color": "color1"
+      },
+      "text": {
+        "content": [
+          "Толщина слоя — примерно половина ширины шва. Малярную ленту снимите сразу после заглаживания. Свежие остатки удаляются спиртом или ацетоном, затвердевшие — только механически. Силикон должен контактировать только с боковыми кромками деформационного шва."
+        ],
+        "size": "size2",
+        "align": "left",
+        "color": "color1"
+      }
+    }
+  ],
+  "version": 0.3
+}
